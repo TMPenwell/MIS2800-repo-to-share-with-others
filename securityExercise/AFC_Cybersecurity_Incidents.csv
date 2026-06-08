@@ -1,0 +1,251 @@
+Incident ID,Date,Year,Team,Division,Attack Type,Stadium System Targeted,Defense Mechanism Used,Severity Level,Financial Loss (in Thousands $),Fan Records Exposed,Incident Resolution Time (in Hours),Game Day Incident
+AFC-1025,2019-01-09,2019,Los Angeles Chargers,AFC West,Phishing,Point of Sale,Firewall,Low,788.98,74521,22.4,Yes
+AFC-1234,2019-01-15,2019,Denver Broncos,AFC West,SQL Injection,Fan Mobile App,Incident Response Team,Critical,1548.93,362856,8.9,No
+AFC-1002,2019-01-27,2019,Kansas City Chiefs,AFC West,Phishing,Point of Sale,Data Encryption,Medium,619.11,46853,34.7,Yes
+AFC-1140,2019-02-01,2019,Cleveland Browns,AFC North,Phishing,Stadium WiFi,Intrusion Detection System,Medium,423.04,117893,8.8,Yes
+AFC-1024,2019-03-02,2019,New England Patriots,AFC East,Insider Threat,Broadcast System,Firewall,Low,2913.19,267861,5.7,Yes
+AFC-1245,2019-03-04,2019,Cleveland Browns,AFC North,Insider Threat,Fan Mobile App,Intrusion Detection System,Medium,793.06,219254,34.7,Yes
+AFC-1236,2019-03-06,2019,New York Jets,AFC East,Ransomware,Player Database,Employee Training,High,1583.0,45279,14.5,Yes
+AFC-1205,2019-03-10,2019,Los Angeles Chargers,AFC West,Credential Stuffing,Broadcast System,Intrusion Detection System,Medium,378.9,67464,35.3,No
+AFC-1057,2019-03-22,2019,Miami Dolphins,AFC East,Phishing,Point of Sale,Employee Training,Critical,692.55,104714,38.5,Yes
+AFC-1087,2019-03-26,2019,Jacksonville Jaguars,AFC South,SQL Injection,Stadium WiFi,Firewall,Low,1999.21,754938,20.1,No
+AFC-1121,2019-03-29,2019,New England Patriots,AFC East,Credential Stuffing,Fan Mobile App,Incident Response Team,High,116.73,184854,5.1,Yes
+AFC-1103,2019-04-29,2019,New York Jets,AFC East,Insider Threat,Fan Mobile App,Incident Response Team,Medium,328.77,78845,6.0,Yes
+AFC-1008,2019-05-12,2019,Pittsburgh Steelers,AFC North,Credential Stuffing,Stadium WiFi,Firewall,Medium,739.16,220325,7.9,Yes
+AFC-1218,2019-05-29,2019,Miami Dolphins,AFC East,Phishing,Point of Sale,Multi-Factor Authentication,Critical,797.88,109069,9.7,Yes
+AFC-1099,2019-06-01,2019,Denver Broncos,AFC West,Credential Stuffing,Player Database,Multi-Factor Authentication,Medium,179.15,184060,10.6,Yes
+AFC-1158,2019-06-04,2019,New York Jets,AFC East,SQL Injection,Broadcast System,Incident Response Team,Critical,1374.57,968964,14.0,Yes
+AFC-1040,2019-06-08,2019,Houston Texans,AFC South,Phishing,Player Database,Firewall,Medium,693.94,63309,6.4,Yes
+AFC-1037,2019-06-13,2019,Baltimore Ravens,AFC North,Insider Threat,Fan Mobile App,Firewall,Medium,2716.99,240281,17.0,No
+AFC-1150,2019-06-18,2019,Denver Broncos,AFC West,Insider Threat,Broadcast System,Data Encryption,Critical,1459.25,619425,32.7,Yes
+AFC-1178,2019-06-23,2019,Kansas City Chiefs,AFC West,Phishing,Player Database,Employee Training,Medium,595.11,97421,47.4,Yes
+AFC-1248,2019-07-07,2019,Los Angeles Chargers,AFC West,DDoS,Fan Mobile App,Intrusion Detection System,Medium,718.78,14501,27.5,Yes
+AFC-1240,2019-07-12,2019,Cincinnati Bengals,AFC North,Credential Stuffing,Player Database,Employee Training,High,877.14,209834,58.3,Yes
+AFC-1167,2019-07-15,2019,Kansas City Chiefs,AFC West,Ransomware,Stadium WiFi,Multi-Factor Authentication,Medium,1572.98,344994,9.7,Yes
+AFC-1137,2019-07-23,2019,New England Patriots,AFC East,Ransomware,Fan Mobile App,Multi-Factor Authentication,High,3532.86,152660,5.9,Yes
+AFC-1052,2019-07-25,2019,Kansas City Chiefs,AFC West,Phishing,Fan Mobile App,Incident Response Team,Medium,468.05,36813,8.8,Yes
+AFC-1196,2019-07-27,2019,New York Jets,AFC East,DDoS,Point of Sale,Multi-Factor Authentication,Low,419.23,25175,10.5,Yes
+AFC-1078,2019-07-30,2019,Indianapolis Colts,AFC South,Insider Threat,Point of Sale,Employee Training,Medium,906.94,520935,15.3,Yes
+AFC-1062,2019-08-02,2019,Houston Texans,AFC South,Ransomware,Point of Sale,Firewall,High,4999.59,193480,6.9,Yes
+AFC-1162,2019-08-02,2019,Cincinnati Bengals,AFC North,Phishing,Broadcast System,Multi-Factor Authentication,Critical,530.88,102311,7.1,Yes
+AFC-1124,2019-08-03,2019,Pittsburgh Steelers,AFC North,SQL Injection,Stadium WiFi,Firewall,Low,384.5,491409,13.6,No
+AFC-1079,2019-08-08,2019,Denver Broncos,AFC West,Insider Threat,Ticketing System,Data Encryption,High,624.84,610180,45.8,Yes
+AFC-1022,2019-08-10,2019,Kansas City Chiefs,AFC West,DDoS,Point of Sale,Employee Training,Medium,840.7,42348,14.3,Yes
+AFC-1081,2019-09-04,2019,Indianapolis Colts,AFC South,SQL Injection,Point of Sale,Intrusion Detection System,High,1277.82,826039,6.3,Yes
+AFC-1224,2019-09-12,2019,Buffalo Bills,AFC East,DDoS,Player Database,Intrusion Detection System,High,834.56,30500,13.1,Yes
+AFC-1231,2019-09-19,2019,Cleveland Browns,AFC North,SQL Injection,Ticketing System,Firewall,Medium,1151.15,113182,22.6,Yes
+AFC-1056,2019-09-21,2019,Pittsburgh Steelers,AFC North,Insider Threat,Player Database,Multi-Factor Authentication,High,1361.63,366954,7.0,Yes
+AFC-1127,2019-09-27,2019,Las Vegas Raiders,AFC West,Ransomware,Ticketing System,Intrusion Detection System,High,1067.86,337322,23.9,No
+AFC-1171,2019-10-04,2019,Denver Broncos,AFC West,DDoS,Stadium WiFi,Incident Response Team,Low,479.28,48034,12.2,Yes
+AFC-1020,2019-10-18,2019,Miami Dolphins,AFC East,Phishing,Ticketing System,Firewall,Critical,435.62,78001,16.7,Yes
+AFC-1141,2019-10-23,2019,Pittsburgh Steelers,AFC North,SQL Injection,Broadcast System,Incident Response Team,High,884.58,828086,1.7,Yes
+AFC-1244,2019-10-26,2019,Houston Texans,AFC South,Insider Threat,Player Database,Data Encryption,High,726.86,636126,35.9,No
+AFC-1166,2019-11-21,2019,Baltimore Ravens,AFC North,Credential Stuffing,Point of Sale,Employee Training,High,90.68,123065,61.4,No
+AFC-1227,2019-12-02,2019,Cleveland Browns,AFC North,Phishing,Player Database,Data Encryption,Critical,444.13,143457,35.0,Yes
+AFC-1060,2019-12-10,2019,Buffalo Bills,AFC East,Insider Threat,Broadcast System,Data Encryption,High,1999.7,162291,42.1,Yes
+AFC-1155,2019-12-14,2019,Indianapolis Colts,AFC South,Credential Stuffing,Player Database,Incident Response Team,Medium,330.41,207488,11.9,Yes
+AFC-1090,2019-12-27,2019,Indianapolis Colts,AFC South,Credential Stuffing,Point of Sale,Data Encryption,Low,334.48,179488,9.1,Yes
+AFC-1217,2020-01-02,2020,Cleveland Browns,AFC North,DDoS,Stadium WiFi,Intrusion Detection System,High,817.53,15218,20.7,No
+AFC-1222,2020-01-26,2020,Kansas City Chiefs,AFC West,SQL Injection,Stadium WiFi,Firewall,Medium,491.85,197442,12.5,Yes
+AFC-1177,2020-02-25,2020,Kansas City Chiefs,AFC West,SQL Injection,Fan Mobile App,Data Encryption,Medium,298.13,743024,17.0,Yes
+AFC-1089,2020-03-04,2020,New England Patriots,AFC East,Insider Threat,Stadium WiFi,Employee Training,Medium,2601.65,365824,34.3,Yes
+AFC-1033,2020-03-14,2020,Indianapolis Colts,AFC South,Credential Stuffing,Ticketing System,Multi-Factor Authentication,Medium,687.49,91499,4.0,No
+AFC-1219,2020-03-15,2020,Indianapolis Colts,AFC South,Ransomware,Ticketing System,Intrusion Detection System,High,4678.05,185658,12.4,No
+AFC-1125,2020-03-22,2020,New England Patriots,AFC East,Insider Threat,Point of Sale,Intrusion Detection System,Medium,1465.62,252311,34.2,Yes
+AFC-1220,2020-04-06,2020,Los Angeles Chargers,AFC West,Phishing,Broadcast System,Employee Training,Medium,298.01,125301,49.5,No
+AFC-1066,2020-05-10,2020,Pittsburgh Steelers,AFC North,Ransomware,Player Database,Intrusion Detection System,Critical,4083.02,306711,28.8,Yes
+AFC-1077,2020-06-01,2020,Miami Dolphins,AFC East,Ransomware,Broadcast System,Intrusion Detection System,High,3370.41,404679,19.2,Yes
+AFC-1233,2020-06-28,2020,Tennessee Titans,AFC South,Insider Threat,Point of Sale,Employee Training,Medium,2029.9,384663,15.6,No
+AFC-1232,2020-07-08,2020,Los Angeles Chargers,AFC West,Ransomware,Stadium WiFi,Employee Training,Low,3946.22,392357,49.3,Yes
+AFC-1181,2020-07-17,2020,Las Vegas Raiders,AFC West,DDoS,Stadium WiFi,Employee Training,High,682.41,26085,28.1,Yes
+AFC-1000,2020-07-25,2020,New York Jets,AFC East,Ransomware,Player Database,Intrusion Detection System,Medium,3814.12,364785,27.4,No
+AFC-1116,2020-07-26,2020,Las Vegas Raiders,AFC West,Credential Stuffing,Stadium WiFi,Incident Response Team,Medium,112.41,29509,6.2,Yes
+AFC-1036,2020-09-02,2020,Kansas City Chiefs,AFC West,SQL Injection,Ticketing System,Firewall,Low,1159.34,925136,10.1,No
+AFC-1228,2020-09-05,2020,New York Jets,AFC East,Ransomware,Broadcast System,Data Encryption,Medium,1240.42,457996,26.9,Yes
+AFC-1154,2020-09-07,2020,Indianapolis Colts,AFC South,DDoS,Player Database,Incident Response Team,Critical,466.7,38190,12.3,Yes
+AFC-1208,2020-09-12,2020,New York Jets,AFC East,Phishing,Ticketing System,Employee Training,Medium,359.72,58448,34.3,No
+AFC-1063,2020-09-16,2020,Miami Dolphins,AFC East,Ransomware,Fan Mobile App,Multi-Factor Authentication,High,1573.45,258282,8.4,No
+AFC-1146,2020-09-18,2020,Pittsburgh Steelers,AFC North,Ransomware,Fan Mobile App,Intrusion Detection System,Low,3920.97,353675,5.5,No
+AFC-1038,2020-09-25,2020,New York Jets,AFC East,DDoS,Broadcast System,Employee Training,Critical,1118.34,15514,63.3,Yes
+AFC-1216,2020-10-08,2020,Los Angeles Chargers,AFC West,Ransomware,Player Database,Multi-Factor Authentication,Low,2331.08,471712,10.7,Yes
+AFC-1059,2020-11-07,2020,Denver Broncos,AFC West,DDoS,Player Database,Incident Response Team,High,1024.56,8364,17.7,No
+AFC-1159,2020-11-09,2020,Denver Broncos,AFC West,Phishing,Fan Mobile App,Multi-Factor Authentication,High,590.89,16453,5.5,No
+AFC-1064,2020-11-18,2020,Cleveland Browns,AFC North,Insider Threat,Player Database,Intrusion Detection System,High,1896.5,773252,6.8,Yes
+AFC-1191,2020-11-21,2020,Indianapolis Colts,AFC South,SQL Injection,Broadcast System,Firewall,Medium,1244.85,658851,5.4,No
+AFC-1082,2020-12-12,2020,Cleveland Browns,AFC North,DDoS,Player Database,Firewall,Low,707.19,10258,2.1,Yes
+AFC-1185,2020-12-14,2020,Indianapolis Colts,AFC South,Phishing,Player Database,Incident Response Team,Critical,645.27,138367,4.8,Yes
+AFC-1123,2020-12-15,2020,Buffalo Bills,AFC East,DDoS,Fan Mobile App,Multi-Factor Authentication,Medium,220.92,1689,2.4,Yes
+AFC-1172,2020-12-18,2020,Jacksonville Jaguars,AFC South,Phishing,Ticketing System,Intrusion Detection System,Medium,672.79,126798,35.4,Yes
+AFC-1111,2020-12-20,2020,Baltimore Ravens,AFC North,Ransomware,Stadium WiFi,Intrusion Detection System,High,1403.58,422359,20.8,Yes
+AFC-1076,2021-01-04,2021,Indianapolis Colts,AFC South,Ransomware,Fan Mobile App,Intrusion Detection System,Medium,1860.2,381205,20.6,Yes
+AFC-1104,2021-01-07,2021,Kansas City Chiefs,AFC West,Phishing,Fan Mobile App,Data Encryption,Medium,177.49,25701,30.8,Yes
+AFC-1134,2021-01-08,2021,Buffalo Bills,AFC East,SQL Injection,Player Database,Incident Response Team,Medium,655.55,849444,6.3,Yes
+AFC-1075,2021-01-28,2021,Cleveland Browns,AFC North,DDoS,Ticketing System,Incident Response Team,Medium,310.7,48405,9.2,No
+AFC-1169,2021-02-06,2021,Buffalo Bills,AFC East,SQL Injection,Stadium WiFi,Multi-Factor Authentication,High,1379.09,139772,6.8,Yes
+AFC-1091,2021-02-07,2021,Buffalo Bills,AFC East,Credential Stuffing,Broadcast System,Employee Training,Medium,502.71,271353,48.0,Yes
+AFC-1197,2021-02-16,2021,Pittsburgh Steelers,AFC North,Phishing,Stadium WiFi,Data Encryption,High,622.34,135617,47.8,Yes
+AFC-1041,2021-03-02,2021,Tennessee Titans,AFC South,DDoS,Fan Mobile App,Multi-Factor Authentication,Low,538.31,18258,10.5,Yes
+AFC-1221,2021-03-02,2021,Cincinnati Bengals,AFC North,Ransomware,Player Database,Intrusion Detection System,High,1289.73,458867,24.1,Yes
+AFC-1084,2021-03-21,2021,Houston Texans,AFC South,Credential Stuffing,Broadcast System,Incident Response Team,High,425.74,295507,4.8,Yes
+AFC-1031,2021-05-23,2021,Las Vegas Raiders,AFC West,SQL Injection,Broadcast System,Firewall,Low,1085.89,188890,22.5,Yes
+AFC-1001,2021-06-14,2021,New England Patriots,AFC East,SQL Injection,Point of Sale,Firewall,Low,580.42,681262,2.6,Yes
+AFC-1109,2021-06-16,2021,Los Angeles Chargers,AFC West,DDoS,Fan Mobile App,Data Encryption,High,800.28,40690,15.0,No
+AFC-1058,2021-06-22,2021,Indianapolis Colts,AFC South,Insider Threat,Point of Sale,Data Encryption,High,1567.04,306193,23.2,Yes
+AFC-1080,2021-07-13,2021,Pittsburgh Steelers,AFC North,Ransomware,Broadcast System,Employee Training,High,3990.62,209427,36.8,Yes
+AFC-1215,2021-07-13,2021,Pittsburgh Steelers,AFC North,Phishing,Ticketing System,Incident Response Team,Critical,528.46,18760,2.7,Yes
+AFC-1019,2021-07-31,2021,Pittsburgh Steelers,AFC North,Ransomware,Stadium WiFi,Firewall,High,3147.98,13770,3.6,No
+AFC-1122,2021-08-12,2021,Cleveland Browns,AFC North,Ransomware,Broadcast System,Multi-Factor Authentication,High,1978.52,87360,9.7,No
+AFC-1238,2021-08-17,2021,Cleveland Browns,AFC North,Ransomware,Fan Mobile App,Data Encryption,Critical,4171.04,393525,29.3,No
+AFC-1028,2021-08-21,2021,New England Patriots,AFC East,Phishing,Ticketing System,Data Encryption,Low,352.83,69543,29.5,Yes
+AFC-1072,2021-09-11,2021,Pittsburgh Steelers,AFC North,Credential Stuffing,Point of Sale,Employee Training,High,644.75,267331,36.7,Yes
+AFC-1051,2021-09-26,2021,Cleveland Browns,AFC North,Credential Stuffing,Player Database,Employee Training,Medium,196.75,12907,65.1,Yes
+AFC-1007,2021-09-29,2021,New England Patriots,AFC East,SQL Injection,Player Database,Multi-Factor Authentication,Medium,452.29,447887,4.0,No
+AFC-1237,2021-09-29,2021,Las Vegas Raiders,AFC West,SQL Injection,Player Database,Incident Response Team,Critical,1520.0,471805,8.5,No
+AFC-1190,2021-10-23,2021,Pittsburgh Steelers,AFC North,DDoS,Broadcast System,Intrusion Detection System,High,315.93,36099,12.1,No
+AFC-1105,2021-11-06,2021,Pittsburgh Steelers,AFC North,Insider Threat,Broadcast System,Multi-Factor Authentication,Medium,1486.8,719233,1.1,Yes
+AFC-1247,2021-12-07,2021,Denver Broncos,AFC West,Insider Threat,Broadcast System,Incident Response Team,Medium,1207.0,541433,8.9,No
+AFC-1114,2021-12-09,2021,Buffalo Bills,AFC East,DDoS,Broadcast System,Firewall,Medium,743.02,41847,22.7,Yes
+AFC-1013,2021-12-14,2021,Cincinnati Bengals,AFC North,Insider Threat,Ticketing System,Incident Response Team,Critical,2921.29,207330,9.6,Yes
+AFC-1034,2021-12-17,2021,Cleveland Browns,AFC North,Credential Stuffing,Stadium WiFi,Multi-Factor Authentication,High,491.96,141659,11.0,Yes
+AFC-1192,2021-12-20,2021,Jacksonville Jaguars,AFC South,SQL Injection,Ticketing System,Firewall,Low,1354.59,854214,14.6,No
+AFC-1012,2021-12-28,2021,Houston Texans,AFC South,SQL Injection,Ticketing System,Incident Response Team,High,1571.91,406699,2.9,Yes
+AFC-1223,2021-12-29,2021,Buffalo Bills,AFC East,DDoS,Point of Sale,Multi-Factor Authentication,Medium,1149.44,19788,7.4,No
+AFC-1214,2022-01-15,2022,Houston Texans,AFC South,Credential Stuffing,Point of Sale,Multi-Factor Authentication,Medium,844.74,152407,2.5,No
+AFC-1055,2022-01-17,2022,Houston Texans,AFC South,Insider Threat,Ticketing System,Incident Response Team,Medium,1140.37,586390,2.4,Yes
+AFC-1094,2022-01-24,2022,Baltimore Ravens,AFC North,Insider Threat,Player Database,Intrusion Detection System,Medium,1363.37,525937,35.3,Yes
+AFC-1148,2022-01-30,2022,New England Patriots,AFC East,Insider Threat,Point of Sale,Incident Response Team,Medium,1855.98,389038,9.6,Yes
+AFC-1120,2022-02-04,2022,Tennessee Titans,AFC South,SQL Injection,Player Database,Intrusion Detection System,Low,501.15,178093,34.3,Yes
+AFC-1071,2022-02-05,2022,Tennessee Titans,AFC South,DDoS,Stadium WiFi,Intrusion Detection System,Critical,711.37,33857,34.3,Yes
+AFC-1054,2022-02-09,2022,Los Angeles Chargers,AFC West,Insider Threat,Stadium WiFi,Multi-Factor Authentication,High,2344.28,566622,6.3,Yes
+AFC-1088,2022-02-13,2022,Miami Dolphins,AFC East,Phishing,Point of Sale,Data Encryption,High,186.12,119264,31.9,Yes
+AFC-1211,2022-02-16,2022,Houston Texans,AFC South,SQL Injection,Point of Sale,Multi-Factor Authentication,Critical,1182.46,285790,11.4,Yes
+AFC-1083,2022-03-04,2022,Los Angeles Chargers,AFC West,DDoS,Ticketing System,Multi-Factor Authentication,Medium,873.29,29755,1.8,Yes
+AFC-1096,2022-03-04,2022,Kansas City Chiefs,AFC West,DDoS,Broadcast System,Intrusion Detection System,High,898.66,38465,22.1,No
+AFC-1149,2022-03-21,2022,Las Vegas Raiders,AFC West,Insider Threat,Ticketing System,Firewall,Medium,414.85,114682,15.5,No
+AFC-1102,2022-03-23,2022,Los Angeles Chargers,AFC West,SQL Injection,Ticketing System,Data Encryption,Low,1995.24,833041,8.0,Yes
+AFC-1213,2022-03-24,2022,Denver Broncos,AFC West,Insider Threat,Stadium WiFi,Multi-Factor Authentication,Medium,2874.88,102868,4.8,Yes
+AFC-1005,2022-03-31,2022,Cleveland Browns,AFC North,Credential Stuffing,Ticketing System,Firewall,High,887.81,132049,21.1,Yes
+AFC-1004,2022-04-15,2022,Las Vegas Raiders,AFC West,SQL Injection,Ticketing System,Employee Training,Low,1684.4,698564,64.7,Yes
+AFC-1112,2022-04-23,2022,Houston Texans,AFC South,Phishing,Stadium WiFi,Employee Training,Critical,609.92,93792,59.5,Yes
+AFC-1225,2022-04-23,2022,Indianapolis Colts,AFC South,Credential Stuffing,Ticketing System,Incident Response Team,Critical,378.22,125788,4.7,Yes
+AFC-1249,2022-04-24,2022,Houston Texans,AFC South,SQL Injection,Broadcast System,Data Encryption,High,431.96,395888,14.1,No
+AFC-1204,2022-05-10,2022,Baltimore Ravens,AFC North,DDoS,Broadcast System,Intrusion Detection System,Low,753.1,33247,30.3,No
+AFC-1030,2022-05-13,2022,Pittsburgh Steelers,AFC North,DDoS,Point of Sale,Multi-Factor Authentication,High,602.95,49274,11.3,Yes
+AFC-1047,2022-05-17,2022,Denver Broncos,AFC West,Credential Stuffing,Player Database,Multi-Factor Authentication,High,410.01,10212,4.3,Yes
+AFC-1193,2022-05-22,2022,Buffalo Bills,AFC East,Insider Threat,Player Database,Data Encryption,Medium,1552.25,738264,21.9,Yes
+AFC-1032,2022-05-24,2022,Pittsburgh Steelers,AFC North,DDoS,Stadium WiFi,Multi-Factor Authentication,Medium,772.85,42858,6.8,No
+AFC-1073,2022-06-08,2022,New England Patriots,AFC East,DDoS,Fan Mobile App,Employee Training,High,830.36,24184,38.3,No
+AFC-1085,2022-06-13,2022,Houston Texans,AFC South,Phishing,Ticketing System,Firewall,Low,496.28,80657,11.7,Yes
+AFC-1230,2022-06-16,2022,Kansas City Chiefs,AFC West,Insider Threat,Broadcast System,Firewall,High,2225.18,435182,7.6,Yes
+AFC-1110,2022-06-19,2022,Baltimore Ravens,AFC North,Credential Stuffing,Ticketing System,Incident Response Team,High,725.6,27492,10.9,No
+AFC-1029,2022-07-19,2022,New England Patriots,AFC East,Insider Threat,Player Database,Data Encryption,High,2817.18,234181,33.5,Yes
+AFC-1212,2022-07-22,2022,Indianapolis Colts,AFC South,Credential Stuffing,Fan Mobile App,Incident Response Team,High,470.84,153370,5.9,No
+AFC-1184,2022-08-02,2022,Cincinnati Bengals,AFC North,Credential Stuffing,Point of Sale,Firewall,High,625.97,44046,14.1,Yes
+AFC-1069,2022-08-13,2022,Los Angeles Chargers,AFC West,Insider Threat,Point of Sale,Incident Response Team,High,2584.8,110872,5.7,Yes
+AFC-1147,2022-08-16,2022,Los Angeles Chargers,AFC West,Insider Threat,Broadcast System,Data Encryption,Medium,2619.89,677685,17.9,Yes
+AFC-1061,2022-08-31,2022,Miami Dolphins,AFC East,DDoS,Point of Sale,Intrusion Detection System,Medium,471.25,24846,12.2,Yes
+AFC-1115,2022-09-05,2022,Pittsburgh Steelers,AFC North,Insider Threat,Ticketing System,Data Encryption,Critical,2762.72,252120,32.5,No
+AFC-1101,2022-09-07,2022,Jacksonville Jaguars,AFC South,SQL Injection,Player Database,Employee Training,High,1726.83,951085,42.2,Yes
+AFC-1131,2022-09-12,2022,Tennessee Titans,AFC South,Phishing,Broadcast System,Firewall,High,552.51,112691,9.8,No
+AFC-1045,2022-09-14,2022,Cleveland Browns,AFC North,DDoS,Point of Sale,Firewall,Critical,785.47,43475,20.7,No
+AFC-1042,2022-09-18,2022,Tennessee Titans,AFC South,Credential Stuffing,Broadcast System,Employee Training,High,849.87,70472,64.1,Yes
+AFC-1097,2022-09-23,2022,Los Angeles Chargers,AFC West,Phishing,Point of Sale,Data Encryption,Medium,463.94,147456,20.6,Yes
+AFC-1203,2022-09-26,2022,Denver Broncos,AFC West,SQL Injection,Ticketing System,Firewall,Low,1637.34,594559,12.1,No
+AFC-1035,2022-09-28,2022,New England Patriots,AFC East,Credential Stuffing,Point of Sale,Intrusion Detection System,Low,711.17,147340,8.3,Yes
+AFC-1153,2022-10-02,2022,Denver Broncos,AFC West,Insider Threat,Stadium WiFi,Incident Response Team,High,384.55,119096,10.5,Yes
+AFC-1049,2022-10-04,2022,Cincinnati Bengals,AFC North,Credential Stuffing,Ticketing System,Intrusion Detection System,Medium,152.04,133138,25.2,Yes
+AFC-1165,2022-10-05,2022,Pittsburgh Steelers,AFC North,Ransomware,Stadium WiFi,Firewall,High,4061.21,82141,2.8,Yes
+AFC-1070,2022-10-09,2022,Pittsburgh Steelers,AFC North,Insider Threat,Broadcast System,Data Encryption,High,280.36,360802,12.0,Yes
+AFC-1202,2022-10-20,2022,New York Jets,AFC East,Phishing,Ticketing System,Employee Training,Medium,468.37,100841,56.3,Yes
+AFC-1144,2022-10-22,2022,Denver Broncos,AFC West,SQL Injection,Ticketing System,Employee Training,Critical,559.91,866964,18.8,No
+AFC-1067,2022-10-29,2022,Kansas City Chiefs,AFC West,Credential Stuffing,Stadium WiFi,Firewall,Medium,85.44,230231,20.1,Yes
+AFC-1210,2022-11-03,2022,Denver Broncos,AFC West,DDoS,Fan Mobile App,Employee Training,Critical,700.9,44293,57.4,No
+AFC-1151,2022-11-07,2022,Los Angeles Chargers,AFC West,SQL Injection,Fan Mobile App,Firewall,Medium,1967.41,138425,13.1,Yes
+AFC-1106,2022-11-16,2022,Indianapolis Colts,AFC South,Credential Stuffing,Broadcast System,Multi-Factor Authentication,Low,889.81,166842,8.0,Yes
+AFC-1235,2022-11-18,2022,Kansas City Chiefs,AFC West,SQL Injection,Point of Sale,Multi-Factor Authentication,Medium,436.97,247636,11.3,No
+AFC-1145,2022-12-02,2022,New York Jets,AFC East,SQL Injection,Broadcast System,Multi-Factor Authentication,Critical,799.53,908729,8.1,Yes
+AFC-1132,2022-12-11,2022,Kansas City Chiefs,AFC West,Credential Stuffing,Ticketing System,Intrusion Detection System,High,160.47,276030,10.0,No
+AFC-1006,2022-12-26,2022,Houston Texans,AFC South,Insider Threat,Player Database,Intrusion Detection System,Low,786.62,299946,26.2,No
+AFC-1143,2023-01-22,2023,Buffalo Bills,AFC East,DDoS,Fan Mobile App,Data Encryption,Medium,196.94,6937,14.7,No
+AFC-1015,2023-01-26,2023,Buffalo Bills,AFC East,SQL Injection,Stadium WiFi,Employee Training,Low,1775.64,922064,59.6,Yes
+AFC-1200,2023-02-07,2023,Baltimore Ravens,AFC North,DDoS,Player Database,Intrusion Detection System,High,149.77,3352,21.8,Yes
+AFC-1180,2023-02-09,2023,Las Vegas Raiders,AFC West,Ransomware,Fan Mobile App,Firewall,Medium,2129.68,307399,2.7,Yes
+AFC-1133,2023-02-14,2023,Los Angeles Chargers,AFC West,Phishing,Ticketing System,Intrusion Detection System,High,136.16,78024,21.9,Yes
+AFC-1175,2023-02-16,2023,Tennessee Titans,AFC South,Ransomware,Player Database,Intrusion Detection System,Medium,2466.28,219726,27.5,Yes
+AFC-1186,2023-02-20,2023,Baltimore Ravens,AFC North,Phishing,Point of Sale,Firewall,Medium,400.55,149610,4.9,Yes
+AFC-1195,2023-02-26,2023,Jacksonville Jaguars,AFC South,Credential Stuffing,Stadium WiFi,Employee Training,Low,499.86,65670,28.4,Yes
+AFC-1243,2023-02-28,2023,Cleveland Browns,AFC North,DDoS,Player Database,Firewall,Critical,201.71,47486,20.2,Yes
+AFC-1018,2023-03-10,2023,Cleveland Browns,AFC North,Credential Stuffing,Stadium WiFi,Employee Training,Critical,436.43,281358,36.9,Yes
+AFC-1226,2023-03-11,2023,Los Angeles Chargers,AFC West,Phishing,Point of Sale,Incident Response Team,Critical,361.88,148978,16.5,No
+AFC-1014,2023-03-12,2023,Indianapolis Colts,AFC South,Credential Stuffing,Broadcast System,Data Encryption,Low,704.07,292789,46.0,No
+AFC-1065,2023-03-18,2023,Indianapolis Colts,AFC South,Ransomware,Broadcast System,Firewall,Critical,2284.94,384873,6.4,No
+AFC-1003,2023-04-06,2023,Houston Texans,AFC South,Phishing,Fan Mobile App,Intrusion Detection System,Low,122.54,95165,22.9,Yes
+AFC-1207,2023-04-07,2023,Los Angeles Chargers,AFC West,Phishing,Broadcast System,Incident Response Team,High,160.83,68490,1.5,No
+AFC-1198,2023-05-30,2023,Los Angeles Chargers,AFC West,DDoS,Point of Sale,Firewall,Low,655.99,15776,6.7,Yes
+AFC-1139,2023-06-07,2023,Los Angeles Chargers,AFC West,SQL Injection,Player Database,Intrusion Detection System,Low,1971.22,107443,3.3,Yes
+AFC-1108,2023-06-10,2023,Indianapolis Colts,AFC South,Credential Stuffing,Stadium WiFi,Firewall,Critical,301.45,35713,22.0,No
+AFC-1246,2023-06-13,2023,Los Angeles Chargers,AFC West,Phishing,Player Database,Data Encryption,High,736.34,149724,18.2,Yes
+AFC-1113,2023-06-16,2023,New England Patriots,AFC East,Phishing,Fan Mobile App,Incident Response Team,High,775.45,100885,2.5,Yes
+AFC-1010,2023-06-24,2023,Houston Texans,AFC South,Credential Stuffing,Broadcast System,Employee Training,Critical,373.65,82525,40.6,Yes
+AFC-1135,2023-06-30,2023,Tennessee Titans,AFC South,Ransomware,Fan Mobile App,Multi-Factor Authentication,High,813.13,398481,8.0,Yes
+AFC-1046,2023-07-07,2023,Indianapolis Colts,AFC South,SQL Injection,Stadium WiFi,Incident Response Team,Medium,1439.84,631343,3.2,Yes
+AFC-1142,2023-07-15,2023,Las Vegas Raiders,AFC West,Ransomware,Stadium WiFi,Data Encryption,Medium,3692.75,228991,16.7,Yes
+AFC-1179,2023-07-22,2023,Houston Texans,AFC South,Credential Stuffing,Ticketing System,Firewall,High,374.73,93879,23.0,Yes
+AFC-1093,2023-07-30,2023,Pittsburgh Steelers,AFC North,Credential Stuffing,Fan Mobile App,Intrusion Detection System,High,151.9,69486,18.2,Yes
+AFC-1100,2023-08-07,2023,New York Jets,AFC East,SQL Injection,Point of Sale,Firewall,High,1761.23,211859,3.6,Yes
+AFC-1098,2023-08-10,2023,Cleveland Browns,AFC North,Credential Stuffing,Fan Mobile App,Data Encryption,Medium,111.01,257975,35.0,Yes
+AFC-1039,2023-08-14,2023,Kansas City Chiefs,AFC West,Ransomware,Fan Mobile App,Incident Response Team,Critical,4110.06,463018,13.5,Yes
+AFC-1118,2023-08-27,2023,Kansas City Chiefs,AFC West,SQL Injection,Player Database,Incident Response Team,Low,1361.61,924190,9.3,Yes
+AFC-1242,2023-09-03,2023,Baltimore Ravens,AFC North,Insider Threat,Ticketing System,Data Encryption,Medium,1760.4,160606,21.1,Yes
+AFC-1011,2023-09-26,2023,Miami Dolphins,AFC East,Ransomware,Fan Mobile App,Incident Response Team,Low,3183.84,211728,7.5,Yes
+AFC-1017,2023-09-30,2023,Los Angeles Chargers,AFC West,SQL Injection,Fan Mobile App,Intrusion Detection System,Medium,1934.07,615492,27.9,No
+AFC-1053,2023-10-14,2023,Jacksonville Jaguars,AFC South,Insider Threat,Broadcast System,Incident Response Team,Critical,2525.59,594485,8.6,Yes
+AFC-1043,2023-11-15,2023,Cincinnati Bengals,AFC North,SQL Injection,Stadium WiFi,Firewall,Low,789.52,874629,8.9,No
+AFC-1068,2023-11-19,2023,Kansas City Chiefs,AFC West,DDoS,Player Database,Employee Training,High,293.75,34193,69.8,Yes
+AFC-1044,2023-11-22,2023,New York Jets,AFC East,Insider Threat,Broadcast System,Multi-Factor Authentication,Medium,204.74,584607,8.6,No
+AFC-1092,2023-11-30,2023,Cleveland Browns,AFC North,DDoS,Broadcast System,Multi-Factor Authentication,Critical,1068.93,31766,2.3,No
+AFC-1048,2023-12-15,2023,Kansas City Chiefs,AFC West,SQL Injection,Broadcast System,Incident Response Team,Medium,968.0,274082,9.7,No
+AFC-1119,2023-12-27,2023,Houston Texans,AFC South,Ransomware,Player Database,Intrusion Detection System,Medium,4777.5,458502,15.0,No
+AFC-1023,2024-01-12,2024,Jacksonville Jaguars,AFC South,Ransomware,Fan Mobile App,Multi-Factor Authentication,Low,1130.82,106200,4.1,Yes
+AFC-1160,2024-01-13,2024,Pittsburgh Steelers,AFC North,Insider Threat,Broadcast System,Intrusion Detection System,High,855.21,270786,13.2,Yes
+AFC-1201,2024-01-19,2024,Tennessee Titans,AFC South,SQL Injection,Stadium WiFi,Firewall,Medium,1564.15,343308,20.2,No
+AFC-1129,2024-02-01,2024,Cleveland Browns,AFC North,Insider Threat,Point of Sale,Multi-Factor Authentication,Medium,1316.44,785054,2.0,Yes
+AFC-1074,2024-02-02,2024,Tennessee Titans,AFC South,Insider Threat,Player Database,Data Encryption,Medium,958.57,283615,14.1,No
+AFC-1117,2024-02-02,2024,New York Jets,AFC East,Ransomware,Fan Mobile App,Data Encryption,Low,2169.55,399619,34.6,No
+AFC-1136,2024-02-02,2024,New England Patriots,AFC East,Credential Stuffing,Broadcast System,Multi-Factor Authentication,Medium,356.24,204014,4.4,Yes
+AFC-1173,2024-02-18,2024,Cincinnati Bengals,AFC North,Phishing,Ticketing System,Incident Response Team,High,77.74,57845,1.7,Yes
+AFC-1009,2024-02-23,2024,Jacksonville Jaguars,AFC South,Phishing,Player Database,Employee Training,Medium,157.15,41603,23.8,No
+AFC-1161,2024-03-06,2024,Cleveland Browns,AFC North,DDoS,Player Database,Data Encryption,Critical,946.38,25026,26.1,Yes
+AFC-1199,2024-04-11,2024,Miami Dolphins,AFC East,Ransomware,Stadium WiFi,Employee Training,High,1785.87,14287,62.2,Yes
+AFC-1021,2024-04-21,2024,Baltimore Ravens,AFC North,Credential Stuffing,Broadcast System,Data Encryption,Medium,741.19,109829,8.2,No
+AFC-1174,2024-04-23,2024,Miami Dolphins,AFC East,DDoS,Stadium WiFi,Data Encryption,Medium,378.65,49367,32.5,Yes
+AFC-1241,2024-04-23,2024,Kansas City Chiefs,AFC West,Insider Threat,Fan Mobile App,Intrusion Detection System,Medium,874.71,256290,12.9,No
+AFC-1130,2024-04-26,2024,Jacksonville Jaguars,AFC South,Credential Stuffing,Stadium WiFi,Intrusion Detection System,Critical,130.38,54755,6.1,Yes
+AFC-1206,2024-04-27,2024,Indianapolis Colts,AFC South,Credential Stuffing,Player Database,Incident Response Team,Low,294.06,129298,13.3,No
+AFC-1050,2024-04-30,2024,Cleveland Browns,AFC North,Phishing,Ticketing System,Firewall,Medium,508.46,24091,12.0,No
+AFC-1027,2024-05-06,2024,Miami Dolphins,AFC East,Credential Stuffing,Stadium WiFi,Firewall,Low,489.85,288463,5.5,No
+AFC-1126,2024-05-15,2024,Indianapolis Colts,AFC South,Insider Threat,Player Database,Firewall,Low,2572.44,466980,17.1,Yes
+AFC-1107,2024-06-02,2024,Houston Texans,AFC South,Insider Threat,Stadium WiFi,Multi-Factor Authentication,Critical,498.63,419889,7.3,No
+AFC-1194,2024-06-06,2024,New England Patriots,AFC East,Credential Stuffing,Ticketing System,Multi-Factor Authentication,Medium,458.16,188358,7.7,Yes
+AFC-1016,2024-06-13,2024,Miami Dolphins,AFC East,Phishing,Broadcast System,Firewall,Low,662.02,144645,18.8,Yes
+AFC-1157,2024-06-14,2024,Tennessee Titans,AFC South,DDoS,Fan Mobile App,Multi-Factor Authentication,Medium,311.21,9015,2.7,Yes
+AFC-1026,2024-06-16,2024,Indianapolis Colts,AFC South,Insider Threat,Player Database,Incident Response Team,Critical,633.43,331120,4.7,Yes
+AFC-1183,2024-07-04,2024,Las Vegas Raiders,AFC West,Phishing,Broadcast System,Intrusion Detection System,High,200.13,40580,31.1,Yes
+AFC-1086,2024-07-15,2024,Indianapolis Colts,AFC South,Credential Stuffing,Point of Sale,Intrusion Detection System,Medium,436.15,30898,32.4,No
+AFC-1164,2024-08-18,2024,Las Vegas Raiders,AFC West,DDoS,Ticketing System,Employee Training,Low,511.36,25307,71.6,Yes
+AFC-1128,2024-09-01,2024,Jacksonville Jaguars,AFC South,Insider Threat,Broadcast System,Data Encryption,Medium,1895.2,123996,38.9,Yes
+AFC-1170,2024-09-10,2024,New England Patriots,AFC East,SQL Injection,Broadcast System,Data Encryption,High,1175.18,459420,42.4,Yes
+AFC-1095,2024-09-12,2024,Las Vegas Raiders,AFC West,SQL Injection,Fan Mobile App,Employee Training,Low,1530.64,193139,63.3,Yes
+AFC-1229,2024-09-21,2024,Cleveland Browns,AFC North,Credential Stuffing,Broadcast System,Employee Training,Low,442.52,39169,37.0,No
+AFC-1138,2024-09-29,2024,Los Angeles Chargers,AFC West,SQL Injection,Point of Sale,Employee Training,Medium,360.56,500797,15.1,No
+AFC-1163,2024-10-03,2024,New York Jets,AFC East,DDoS,Ticketing System,Multi-Factor Authentication,Medium,262.08,28670,2.0,Yes
+AFC-1168,2024-10-11,2024,New England Patriots,AFC East,Ransomware,Point of Sale,Data Encryption,Medium,3087.71,386724,10.3,Yes
+AFC-1188,2024-10-20,2024,Baltimore Ravens,AFC North,DDoS,Player Database,Firewall,Medium,478.97,36130,16.1,Yes
+AFC-1182,2024-10-21,2024,Pittsburgh Steelers,AFC North,Ransomware,Ticketing System,Incident Response Team,Low,2241.44,304478,3.0,Yes
+AFC-1189,2024-10-23,2024,Baltimore Ravens,AFC North,Insider Threat,Broadcast System,Firewall,High,628.44,192655,5.6,No
+AFC-1209,2024-10-25,2024,Los Angeles Chargers,AFC West,Credential Stuffing,Player Database,Firewall,High,246.06,180419,24.0,Yes
+AFC-1176,2024-10-27,2024,Jacksonville Jaguars,AFC South,Phishing,Point of Sale,Incident Response Team,Medium,250.04,26656,13.4,Yes
+AFC-1239,2024-11-05,2024,Jacksonville Jaguars,AFC South,Phishing,Stadium WiFi,Multi-Factor Authentication,Critical,215.78,83774,4.0,No
+AFC-1152,2024-11-16,2024,Miami Dolphins,AFC East,Phishing,Player Database,Employee Training,Critical,442.06,46614,31.3,Yes
+AFC-1187,2024-11-23,2024,New England Patriots,AFC East,DDoS,Point of Sale,Incident Response Team,High,551.87,26832,15.0,Yes
+AFC-1156,2024-11-26,2024,Baltimore Ravens,AFC North,Credential Stuffing,Player Database,Incident Response Team,Critical,152.1,231986,9.6,Yes
